@@ -1,0 +1,24 @@
+# FP-DIS
+
+The code for the paper 'Accurate Dichotomous Image Segmentation Using Frequency Prior Information' will soon be released here.
+
+## Results
+
+### 1.Comparisons of different methods on three subsets of the DIS5K dataset.
+
+<img src="C:\Users\星水\xwechat_files\wxid_rd0o3zroi0zg22_d789\temp\RWTemp\2025-10\ac5f6bda706393c9b6a3a4532d42025d.png" alt="ac5f6bda706393c9b6a3a4532d42025d" style="zoom: 50%;" />
+
+<img src="C:\Users\星水\xwechat_files\wxid_rd0o3zroi0zg22_d789\temp\RWTemp\2025-10\635ae04cf820ec5fc758477265414a81.png" alt="635ae04cf820ec5fc758477265414a81" style="zoom:50%;" />
+
+### 2.Visual comparison of FP-DIS and other DIS methods.
+
+<img src="C:\Users\星水\xwechat_files\wxid_rd0o3zroi0zg22_d789\temp\RWTemp\2025-10\55f0efb95379444774654ccf906cc87d.png" alt="55f0efb95379444774654ccf906cc87d" style="zoom:50%;" />
+
+### 3.Comparisons of different methods on CVC-300, CVC-ClinicDB, CVC-ColonDB, ETISLaribPolyDB, and Kvasir datasets.
+
+<img src="C:\Users\星水\xwechat_files\wxid_rd0o3zroi0zg22_d789\temp\RWTemp\2025-10\1210dbf0804af17739dcf0ccbfe2f863.png" alt="1210dbf0804af17739dcf0ccbfe2f863" style="zoom:50%;" />
+
+### 4.Visual comparison of FP-DIS with other polyp segmentation methods.
+
+<img src="C:\Users\星水\xwechat_files\wxid_rd0o3zroi0zg22_d789\temp\RWTemp\2025-10\67e38190005f673d804f4789b3b1670b.png" alt="67e38190005f673d804f4789b3b1670b" style="zoom:50%;" />
+
