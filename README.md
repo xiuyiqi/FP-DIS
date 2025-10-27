@@ -12,7 +12,7 @@ The code for the paper 'Accurate Dichotomous Image Segmentation Using Frequency 
 
 ### 2.Visual comparison of FP-DIS and other DIS methods.
 
-<img src="C:\Users\星水\xwechat_files\wxid_rd0o3zroi0zg22_d789\temp\RWTemp\2025-10\55f0efb95379444774654ccf906cc87d.png" alt="55f0efb95379444774654ccf906cc87d" style="zoom:50%;" />
+<img src="https://github.com/xiuyiqi/FP-DIS/blob/main/fig/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251027192955_230_19.png" alt="55f0efb95379444774654ccf906cc87d" style="zoom:50%;" />
 
 ### 3.Comparisons of different methods on CVC-300, CVC-ClinicDB, CVC-ColonDB, ETISLaribPolyDB, and Kvasir datasets.
 
