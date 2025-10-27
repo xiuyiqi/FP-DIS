@@ -20,4 +20,4 @@ The code for the paper 'Accurate Dichotomous Image Segmentation Using Frequency 
 
 ### 4.Visual comparison of FP-DIS with other polyp segmentation methods.
 
-<img src="C:\Users\星水\xwechat_files\wxid_rd0o3zroi0zg22_d789\temp\RWTemp\2025-10\67e38190005f673d804f4789b3b1670b.png" alt="67e38190005f673d804f4789b3b1670b" style="zoom:50%;" />
+<img src="https://github.com/xiuyiqi/FP-DIS/blob/main/fig/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251027193201_234_19.png" alt="67e38190005f673d804f4789b3b1670b" style="zoom:50%;" />
