@@ -6,7 +6,7 @@ The code for the paper 'Accurate Dichotomous Image Segmentation Using Frequency 
 
 ### 1.Comparisons of different methods on three subsets of the DIS5K dataset.
 
-<img src="https://github.com/xiuyiqi/FP-DIS/blob/main/fig/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251027192847_227_19.png" alt="ac5f6bda706393c9b6a3a4532d42025d" style="zoom: 50%;" />
+<img src="https://github.com/xiuyiqi/FP-DIS/blob/main/fig/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251027192847_227_19.png" alt="ac5f6bda706393c9b6a3a4532d42025d" style="zoom: 30%;" />
 
 <img src="https://github.com/xiuyiqi/FP-DIS/blob/main/fig/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251027192905_228_19.png" alt="635ae04cf820ec5fc758477265414a81" style="zoom:50%;" />
 
